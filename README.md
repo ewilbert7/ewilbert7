@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vota**
 
-- 🌱 I’m currently learning **React, Swift**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Spring projects**
 
