@@ -1,5 +1,5 @@
 
-- 👋 Hi I’m @ewilbert7
+- 👋 Hi I’m Eworitse
 
 - 🔭 I’m currently working on **Vota**
 
