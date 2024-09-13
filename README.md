@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Vota**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Swift**
 
-- 👯 I’m looking to collaborate on **Spring projects**
+- 👯 I’m looking to collaborate on **AI projects**
 
 - 📝 I regularly write articles on [https://medium.com/@wilbertej1](https://medium.com/@wilbertej1)
 
-- 💬 Ask me about **Java, AI, Football**
+- 💬 Ask me about **AI, Football, One Piece**
 
 - 📫 How to reach me **wilbertej1@gmail.com**
 
