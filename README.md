@@ -1,9 +1,9 @@
 
-- 👋 Hi I’m Eworitse
+- 👋 Hi I’m Eworitsewarami Justin Wilbert
 
 - 🔭 I’m currently working on **Vota**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift, Rust**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
