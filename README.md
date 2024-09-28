@@ -1,5 +1,5 @@
 
-- 👋 Hi I’m Eworitsewarami Justin Wilbert
+- 👋 Hi I’m Eworitse Wilbert
 
 - 🔭 I’m currently working on **Vota**
 
