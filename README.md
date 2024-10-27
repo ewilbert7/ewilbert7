@@ -1,7 +1,7 @@
 
 - 👋 Hi I’m Eworitse Wilbert
 
-- 🔭 I’m currently working on **Vota, Conjure**
+- 🔭 I’m currently working on **Conjure**
 
 - 🌱 I’m currently learning **Swift, Rust**
 
