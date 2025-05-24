@@ -1,13 +1,12 @@
 <h1 align="left">Eworitse Wilbert</h1>
-<h3 align="left">3rd Year CS UG  @ University of St Andrews</h3>
+<h3 align="left">CS UG @ the University of St Andrews</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ewilbert7" alt="ewilbert7" /></a> </p> -->
+<img align="right" width="550" alt="Mario Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario Coding" />
 
 - 🔭 I’m currently working on **Collabo**
 
 - 🌱 I’m currently learning **swift & mobile dev**
-
-- 👯 I’m looking to collaborate on **spring boot/ai projects**
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://site-eworitses-projects.vercel.app/)
 
@@ -17,9 +16,10 @@
 
 - 📫 How to reach me **wilbertej1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eworitsewarami-wilbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eworitsewarami-wilbert" height="30" width="40" /></a>
-<a href="https://medium.com/@wilbertej1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wilbertej1" height="30" width="40" /></a>
-</p>
+
+#### Let's build!
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@wilbertej1)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/eworitsewarami-wilbert)
+
+
 
